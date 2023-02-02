@@ -1,0 +1,29 @@
+body{margin: 0%;
+    padding: 0%;
+    background-image: url(h1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    border: none;
+}
+fieldset{margin: 25%;
+    padding: 5%;
+    background-color: rgba(13,112,170,0.253);
+    border: 52px;
+    border-radius: 55px;  
+    box-shadow: 10px 10px 5px white;
+    font-size: large;
+}
+input{ border: none;
+       border-radius: 55px;
+}
+legend{background-color: rgba(79, 27, 201, 0.747);
+    border-radius: 50px;
+    border: 25px;
+}
+input[type="reset"]{
+    background-color: brown;
+}
+input[type="submit"]{
+    background-color: rgb(77, 160, 0);
+}
